@@ -16,6 +16,12 @@
     border-top: 0;
 }
 
-#menu-body {
+.menu-item {
     background-color: #f8f8f8;
+    padding: 8px;
+    margin: 10px 0px;
+}
+
+.menu-item h3 {
+    margin: 10px 0px;
 }
