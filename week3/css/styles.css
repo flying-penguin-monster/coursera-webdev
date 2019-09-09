@@ -1,0 +1,21 @@
+.navbar-brand {
+    font-size: 36px;
+}
+
+#food-menu ul {
+    margin: 0px -15px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#food-menu li {
+    border-top: 1px solid rgb(231, 231, 231);
+}
+
+#food-menu li:first-child {
+    border-top: 0;
+}
+
+#menu-body {
+    background-color: #f8f8f8;
+}
